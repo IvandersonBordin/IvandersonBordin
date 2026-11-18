@@ -17,3 +17,18 @@ Estou retomando meus estudos em desenvolvimento de software, com interesse em **
 ### 🛠️ Ambiente
 
 Linux (Manjaro) • VS Code • Git • GitHub
+
+### 📚 Projetos acadêmicos — ADS / IFRO
+
+<details>
+<summary>Ver repositórios antigos</summary>
+
+Projetos e exercícios da época em que estudei Análise e Desenvolvimento de Sistemas no IFRO. Alguns ficaram incompletos.
+
+- [PHP_cadastro](https://github.com/IvandersonBordin/PHP_cadastro)
+- [escola_test_dart](https://github.com/IvandersonBordin/escola_test_dart)
+- [blogdoivan](https://github.com/IvandersonBordin/blogdoivan)
+- [livro-receitas](https://github.com/IvandersonBordin/livro-receitas)
+- [ivandersonbordin.github.io](https://github.com/IvandersonBordin/ivandersonbordin.github.io)
+
+</details>
